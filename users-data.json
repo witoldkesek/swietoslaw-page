@@ -19,5 +19,12 @@
       "latitude": 50.064409548868795,
       "longitude": 21.405539513586,
       "url": "http://www.karczmarzymdebica.pl/"
-    }
+    },
+    {
+      "name": "Pizzeria Jaś",
+      "address": "Rzeszowska 74,<br>39-200 Dębica",
+      "latitude": 50.05333409021556,
+      "longitude": 21.420975454959777,
+      "url": "http://pizzeriajas.pl/menu.html"
+    },
   ]
