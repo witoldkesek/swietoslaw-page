@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Al Capone",
+      "address": "ul. Rzeszowska 62, <br> 39-200 Dębica",
+      "latitude": 50.05293494304941,
+      "longitude": 21.41732648713387,
+      "url": "https://alejacapone.pl/"
+    },
+    {
+      "name": "Pappas Dębica",
+      "address": "ul. Stefana Batorego 11, <br> 39-200 Dębica",
+      "latitude": 50.0487316724549,
+      "longitude": 21.410803058945294,
+      "url": "https://pappas.pl/"
+    },
+    {
+      "name": "Karczma Rzym",
+      "address": "Kościuszki 44,<br>39-200 Dębica",
+      "latitude": 50.064409548868795,
+      "longitude": 21.405539513586,
+      "url": "http://www.karczmarzymdebica.pl/"
+    }
+  ]
