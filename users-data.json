@@ -26,5 +26,12 @@
       "latitude": 50.05333409021556,
       "longitude": 21.420975454959777,
       "url": "http://pizzeriajas.pl/menu.html"
+    },
+    {
+      "name": "Carpe Diem",
+      "address": "Rynek 37,<br>39-200 Dębica",
+      "latitude": 50.0504225245613,
+      "longitude": 21.409788894010646,
+      "url": "https://m.facebook.com/carpediemdebica/?locale2=pl_PL"
     }
   ]
